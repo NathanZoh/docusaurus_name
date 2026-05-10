@@ -27,6 +27,7 @@ Guides d'utilisation et spécifications techniques pour le projet Hermes.
 | :--- | :--- | :--- |
 | **Guide de démarrage** | Instructions initiales pour le déploiement. | [Télécharger PDF](/pdfs/Hermes_Getting_started.pdf) |
 | **Documentation Complète** | Spécifications détaillées du système. | [Télécharger PDF](/pdfs/hermes_documentation.pdf) |
+| **Guide d'Utilisation** | Manuel utilisateur pour l'exploitation d'Hermes. | [Télécharger PDF](/pdfs/using_hermes.pdf) |
 
 ---
 
